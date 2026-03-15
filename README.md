@@ -22,7 +22,7 @@ Highly experienced **Database Specialist** with a focus on high-availability, pe
 ## 🛠 Tech Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Databases** | PostgreSQL (Expert), MySQL, Redis, MongoDB |
+| **Databases** | PostgreSQL (Expert), Oracle, MySQL, Redis, MongoDB |
 | **Infrastructure** | Linux (Debian/RHEL), Docker, Kubernetes, Terraform |
 | **Backup & HA** | pgBackRest, Barman, Patroni, WAL-G, Databasus |
 | **Languages** | Shell Scripting (Bash), Python, PL/pgSQL |
@@ -31,22 +31,21 @@ Highly experienced **Database Specialist** with a focus on high-availability, pe
 ---
 
 ## 📊 Github Stats
-![Telles's GitHub stats](https://github-readme-stats.vercel.app/api?username=telles&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=telles&layout=compact&theme=tokyonight)
+![Fábio Telles GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiotr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fabiotr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiotr&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🏆 Github Trophies
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=telles&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=fabiotr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🤝 Contributing
-I love contributing to the PostgreSQL community and open-source backup tools. If you have a project that needs a database deep-dive, let's connect!
+I love contributing to the PostgreSQL and open-source community. If you have a project that needs a database deep-dive, let's connect!
 
 "In data we trust, but we still verify the WAL logs."
-
-## Hi there 👋
 
 <!--
 **fabiotr/fabiotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
