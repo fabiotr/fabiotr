@@ -31,23 +31,26 @@ Highly experienced **Database Specialist** with a focus on high-availability, pe
 ---
 
 ## 📊 Github Stats
-![Fábio Telles GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiotr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fabiotr&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiotr&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabiotr&theme=vue&locale=pt_BR&timezone=-03&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabiotr&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=fabiotr&show_icons=true&include_all_commits=true&theme=shadow_blue)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fabiotr&layout=compact&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=fabiotr&layout=compact&langs_count=4&theme=shadow_blue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fabiotr&repo=fabiotr%2Fpg_scripts&show_owner=true&theme=shadow_blue)](https://github.com/fabiotr/pg_scripts)
 ---
 
 ## 🏆 Github Trophies
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=fabiotr&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](https://github-trophies.vercel.app/?username=fabiotr&margin-w=10&margin-h=10&theme=flat&title=LongTimeUser,Commits,PullRequest,Stars,Followers)
 ---
 
 ## 🤝 Contributing
 I love contributing to the PostgreSQL and open-source community. If you have a project that needs a database deep-dive, let's connect!
 
-"In data we trust, but we still verify the WAL logs."
 
 <!--
+"In data we trust, but we still verify the WAL logs."
+
 **fabiotr/fabiotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
